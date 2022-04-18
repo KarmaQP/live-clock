@@ -1,3 +1,3 @@
-# forkify Project
+# Live clock
 
-Recipe application with custom recipe uploads.
+Small application for practice.
