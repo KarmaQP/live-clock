@@ -85,11 +85,3 @@ body {
     rgba(110, 69, 106, 1) 100%
   );
 }
-
-.container {
-  margin: 80px auto;
-  background-color: aliceblue;
-  border-radius: 6px;
-  max-width: 1000px;
-  min-height: 700px;
-}
